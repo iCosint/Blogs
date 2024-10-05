@@ -21,7 +21,7 @@
 
 "showPostSource":1,
 "rssSplit":"sentence",
-"needComment":q,
+"needComment":1,
 
     "GMEEK_VERSION":"last"
 }
